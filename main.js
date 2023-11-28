@@ -19,9 +19,7 @@
         }
 
     }
-    console.log(count1)
-    console.log(count2)
-    console.log(answer)
+ 
     if (count1 === 0 || count2 === 0) {
         result.innerText = "Qavslar topilmadi"
         result.style.color = "red"
